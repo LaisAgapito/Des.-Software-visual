@@ -1,0 +1,7 @@
+C:\Users\autologon.CSED\Documents\Aula3\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\autologon.CSED\Documents\Aula3\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\autologon.CSED\Documents\Aula3\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\autologon.CSED\Documents\Aula3\Banco\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+C:\Users\autologon.CSED\Documents\Aula3\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\autologon.CSED\Documents\Aula3\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\autologon.CSED\Documents\Aula3\Banco\Banco\obj\Debug\Banco.pdb
